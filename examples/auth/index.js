@@ -10,6 +10,7 @@ var path = require('path');
 var session = require('express-session');
 
 var app = module.exports = express();
+var app = module.exports = express();
 
 // config
 
